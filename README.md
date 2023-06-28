@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-# author: Marcel0 Nana
+# author: Marcel Nana
 
 Run these commands:
 
